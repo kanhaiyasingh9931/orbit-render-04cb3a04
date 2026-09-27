@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "react": "latest",
+    "prop-types": "latest",
+    "react-dom": "latest",
+    "serve": "^14.2.0"
+  },
+  "scripts": {
+    "start": "serve -s ."
+  }
+}
